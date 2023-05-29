@@ -8,7 +8,7 @@ I'm passionate about solving problems and a enthusiast of the best web developme
 
 - 📍 I live in Belo Horizonte
 - 💻 Developer at [Pingback](https://pingback.com/)
-- 🚀 Sharing content about programming on [my Pingback channel](https://pedro.pingback.com/)
+- 🚀 Sharing content about programming on [my Pingback channel](https://pingback.com/pedro)
 
 ### 📫 Reach me out
 [![Instagram Badge](https://img.shields.io/badge/-@pedrooladeira-9cf?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrooladeira/)](https://www.instagram.com/pedrooladeira/)
